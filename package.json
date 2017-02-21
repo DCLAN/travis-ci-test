@@ -1,0 +1,29 @@
+{
+  "name": "travis-ci-test",
+  "version": "1.0.0",
+  "description": "testing travis ci",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCLAN/travis-ci-test.git"
+  },
+  "keywords": [
+    "travis",
+    "node",
+    "test",
+    "prep"
+  ],
+  "author": "dclan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DCLAN/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/DCLAN/travis-ci-test#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
