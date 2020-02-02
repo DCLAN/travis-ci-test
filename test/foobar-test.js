@@ -8,6 +8,6 @@ describe('foo', function() {
   });
   it('should be true', function() {
     let wow = 'wow';
-    assert.isEqual(wow, 'wow');
+    assert.equal(wow, 'wow');
   });
 });
